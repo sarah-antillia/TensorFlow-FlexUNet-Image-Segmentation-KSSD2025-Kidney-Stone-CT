@@ -105,9 +105,9 @@ Please see also: <a href="https://ieeexplore.ieee.org/document/11165055">KSSD202
 2 Kidney-Stone-CT ImageMask Dataset
 </h3>
  If you would like to train this Kidney-Stone-CT Segmentation model by yourself,
-please down load the original dataset:<br>
- <a href="https://www.kaggle.com/datasets/murillobouzon/kssd2025-kidney-stone-segmentation-dataset">
-<b>KSSD2025 - Kidney Stone Segmentation Dataset</b> </a> on the kaggle.com.
+please down load  the <a href="https://drive.google.com/file/d/13F-R3-x2s9Gte2qrj_Wc556mAwJbojUS/view?usp=sharing">
+  Augmented-KSSD2025-Kidney-Stone-CT-ImageMask-Dataset.zip
+ </a> on the google driive.
 </b><br>
 We used our offline augmentation tool <a href="./generator/ImageMaskDataset.py">ImageMaskDataset.py</a> to generate 
 the  Augmented Kidney-Stone-CT dataset.<br>
