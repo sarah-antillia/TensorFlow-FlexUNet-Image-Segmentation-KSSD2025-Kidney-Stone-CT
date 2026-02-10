@@ -1,4 +1,4 @@
-<h2>TensorFlow-FlexUNet-Image-Segmentation-Kidney-Stone-CT (2026/02/10)</h2>
+<h2>TensorFlow-FlexUNet-Image-Segmentation-KSSD2025-Kidney-Stone-CT (2026/02/10)</h2>
 Sarah T.  Arai<br>
 Software Laboratory antillia.com<br><br>
 This is the first experiment of Image Segmentation for <b>Kidney-Stone-CT</b> based on our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a> 
@@ -11,11 +11,9 @@ and
 To address the limited size of images and masks of the original <b>KSSD2025</b> dataset, which contains 838 annotated images, 
 we used our offline augmentation tool <a href="./generator/ImageMaskDatasetGenerator.py">ImageMaskDatasetGenerator.py</a> (please see also: 
 <a href="https://github.com/sarah-antillia/Image-Deformation-Tool">Image-Deformation-Tool</a>)
- to generate a PNG Augmented-Kidney-Stone-CT-ImageMask-Dataset.
- <!--
-  <a href="https://drive.google.com/file/d/13F-R3-x2s9Gte2qrj_Wc556mAwJbojUS/view?usp=drive_link">
- </a>
- -->.
+ to generate a PNG <a href="https://drive.google.com/file/d/13F-R3-x2s9Gte2qrj_Wc556mAwJbojUS/view?usp=sharing">
+  Augmented-KSSD2025-Kidney-Stone-CT-ImageMask-Dataset
+ </a>.
 <br><br> 
 <hr>
 <b>Actual Image Segmentation for Kidney-Stone-CT Images of 512x512 pixels </b><br>
