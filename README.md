@@ -109,8 +109,6 @@ please down load  the <a href="https://drive.google.com/file/d/13F-R3-x2s9Gte2qr
   Augmented-KSSD2025-Kidney-Stone-CT-ImageMask-Dataset.zip
  </a> on the google driive.
 </b><br>
-We used our offline augmentation tool <a href="./generator/ImageMaskDataset.py">ImageMaskDataset.py</a> to generate 
-the  Augmented Kidney-Stone-CT dataset.<br>
 <pre>
 ./dataset
 └─Kidney-Stone-CT
